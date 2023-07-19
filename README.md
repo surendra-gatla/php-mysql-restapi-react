@@ -8,8 +8,8 @@
 
 - Create `users_feed` folder in XAMPP `htdocs` folder.
 - Clone / Copy the code to `users_feed` directory.
-- Import users_feed.sql file to MySQL database.
-- Any URL changes update in users_feed\src\constant.js file
+- Import `users_feed.sql` file to MySQL database.
+- Any URL changes update in `users_feed\src\constant.js` file
 
 In the project directory, you can run:
 
